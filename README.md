@@ -1,4 +1,4 @@
-# Lottery Names
+# Lottery Names App
 
 Project using HTML, CSS and JS by [Kenzie Academy](https://front.kenzie.com.br/kenzie-front-end-aulas/?fbclid=PAAabv7KnIJCtu8rTAKV_GQ2M3UknWTzmFwUMESwQZGFcEiJrb1h_wHmhsIwk).
 
