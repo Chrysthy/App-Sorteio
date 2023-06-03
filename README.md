@@ -1,1 +1,1 @@
-# Lottery-Names
+# Lottery Names
