@@ -20,7 +20,8 @@ hr {
 }
 
 body {
-    background-color: #eeeeee;
+    /*background-color: #eeeeee;*/
+    background-image: url(img/philippe-awouters-31agMvo-85I-unsplash.jpg);
 
 }
 
@@ -32,9 +33,10 @@ header {
     padding: 30px;
 }
 
-header img {
+/*header img {
     width: 150px;
-}
+    border-radius: 50px;
+}*/
 
 header h1 {
     color: #fff;
@@ -100,9 +102,9 @@ section button {
 }
 
 footer {
-    height: 400px;
-    /*background-image: url("./../img/fundo-rodape.png");*/
-    background-color: #808080;
+    height: 95px;
+    /*background-image: url(img/philippe-awouters-31agMvo-85I-unsplash.jpg);
+    background-color: #808080;*/
     background-size: cover;
     background-attachment: fixed;
 }
