@@ -7,7 +7,6 @@ Project using HTML, CSS and JS by [Kenzie Academy](https://front.kenzie.com.br/k
 :clap: Many thanks for the amazing photos on [unsplash](https://unsplash.com/pt-br) website to:
 
 * Philippe AWOUTERS;
-* Zeke Tucker;
  
 
 <br>
