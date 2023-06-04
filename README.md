@@ -4,7 +4,7 @@ Project using HTML, CSS and JS by [Kenzie Academy](https://front.kenzie.com.br/k
 
 <br>
 
-:clap: Many thanks for the amazing photos on [unsplash](https://unsplash.com/pt-br) website to:
+:clap: Many thanks for the amazing photo on [unsplash](https://unsplash.com/pt-br) website to:
 
 * Philippe AWOUTERS;
  
