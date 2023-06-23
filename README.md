@@ -7,19 +7,19 @@ Project using HTML, CSS and JS by [Kenzie Academy](https://front.kenzie.com.br/k
 :clap: Many thanks for the amazing photo on [unsplash](https://unsplash.com/pt-br) website to:
 
 * Philippe AWOUTERS;
- 
+
+ <br>
+
+ <img src="img/Certificado%20Kenzie.png" alt="certificado">
 
 <br>
 
-All Photos Licensed Under Creative Commons 2.0 - [:file_folder: Check it here! ](https://creativecommons.org/licenses/by/2.0/legalcode)
-
+All Photos Licensed Under Creative Commons 2.0 - [:file_folder: Check it here!](https://creativecommons.org/licenses/by/2.0/legalcode)
 
 <br>
 <hr>
 <h2> Suggestions </h2>
 <p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
-
-
 
 <br>
 <hr>
