@@ -8,10 +8,6 @@ Project using HTML, CSS and JS by [Kenzie Academy](https://front.kenzie.com.br/k
 
 * Philippe AWOUTERS;
 
- <br>
-
- <img src="img/Certificado%20Kenzie.png" alt="certificado">
-
 <br>
 
 All Photos Licensed Under Creative Commons 2.0 - [:file_folder: Check it here!](https://creativecommons.org/licenses/by/2.0/legalcode)
