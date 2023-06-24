@@ -17,7 +17,7 @@ All Photos Licensed Under Creative Commons 2.0 - [:file_folder: Check it here!](
 
 
 
- <img align="center" height="500em" src="img/Certificado%20Kenzie.png" alt="certificado">
+<p align="center"> <img height="500em" src="img/Certificado%20Kenzie.png" alt="certificado"> </p> 
 
  <br>
 <hr>
